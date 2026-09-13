@@ -28,7 +28,7 @@
 Name     : Arpit Ambulkar
 College  : RCOEM, Nagpur (2023–2027)
 Degree   : B.E. in ECE | CGPA: 8.19 / 10
-Role     : Backend Systems Engineer
+Role     : Software Developer / Backend Developer
 
 Specialty: Docker Isolation & Async Queues
 Working  : High-throughput cloud platforms
